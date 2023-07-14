@@ -1,0 +1,20 @@
+KPI 
+Banda ancha fija y dial up, total, provincia, año.. Se encuentran en internet banda ancha provincia
+
+los totales de lo anterior, se encuentar en internet banda ancha
+
+
+
+Para kpi de ingresos totales año o trimestre
+se encuentra en archivo internet ingresos trimestre
+
+Crecimiento de servicios: Puedes calcular el crecimiento trimestral o anual de cada tipo de servicio de telecomunicaciones (ADSL, cablemódem, fibra óptica, etc.) para identificar las tendencias de adopción de los servicios a lo largo del tiempo.*******
+
+Distribución de velocidades: Si tienes datos sobre la velocidad de conexión de los clientes, puedes calcular la distribución de velocidades de internet, es decir, la proporción de clientes que tienen diferentes rangos de velocidad, como hasta 512 kbps, entre 512 kbps y 1 Mbps, etc.
+*****
+
+
+Ingresos por trimestre o año: Puedes calcular los ingresos totales de la empresa de telecomunicaciones por trimestre o año, para evaluar el rendimiento financiero.
+*******************
+
+Retención de clientes: Puedes calcular la tasa de retención de clientes para cada servicio de telecomunicaciones. Esto implica medir la cantidad de clientes que se mantuvieron durante un período determinado en comparación con la cantidad total de clientes al comienzo del período. Esto te dará una idea de la lealtad de los clientes y la capacidad de retención de la empresa.
